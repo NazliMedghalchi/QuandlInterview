@@ -1,0 +1,4 @@
+# ignore idea files
+*.iml
+out/production/Quandl
+
